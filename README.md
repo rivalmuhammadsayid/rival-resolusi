@@ -1,2 +1,2 @@
 # rival-resolusi
-Repository untuk menyimpan rencana Rival kedepennya
+Repository untuk menyimpan rencana Rival kedepannya
